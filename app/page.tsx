@@ -171,7 +171,9 @@ export default function Home() {
           {/* CTA links */}
           <div className="flex flex-wrap gap-4 anim-fade-up-3">
             <a
-              href="mailto:aineaesratesika@gmail.com"
+              href="https://mail.google.com/mail/?view=cm&to=aineaesratesika@gmail.com"
+              target="_blank"
+              rel="noopener noreferrer"
               className="inline-flex items-center gap-2 px-5 py-2.5 rounded-full font-mono text-[12px] text-white"
               style={{ background: "linear-gradient(135deg, #7c3aed, #06b6d4)" }}
             >
@@ -420,7 +422,9 @@ export default function Home() {
             </p>
             <div className="flex flex-wrap justify-center gap-4">
               <a
-                href="mailto:aineaesratesika@gmail.com"
+                href="https://mail.google.com/mail/?view=cm&to=aineaesratesika@gmail.com"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 px-6 py-3 rounded-full font-mono text-[13px] text-white transition-opacity hover:opacity-90"
                 style={{ background: "linear-gradient(135deg, #7c3aed, #06b6d4)" }}
               >
